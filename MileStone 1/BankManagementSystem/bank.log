@@ -1,0 +1,27 @@
+2021-04-26 21:30:49.206 - INFO - START : Logout
+2021-04-26 21:30:49.269 - SEVERE - No User Logged in
+2021-04-26 21:30:49.271 - INFO - END : Logout
+2021-04-26 21:31:04.509 - INFO - START : User Login
+2021-04-26 21:31:05.387 - SEVERE - Invalid Credentials
+2021-04-26 21:31:05.388 - INFO - END : User Login
+2021-04-26 21:31:09.722 - INFO - START : User Login
+2021-04-26 21:31:09.892 - INFO - Login Successful
+2021-04-26 21:31:09.894 - INFO - END : User Login
+2021-04-26 21:31:11.639 - INFO - START : User Login
+2021-04-26 21:31:11.640 - WARNING - A User Already Logged In
+2021-04-26 21:31:11.641 - INFO - END : User Login
+2021-04-26 21:31:33.938 - INFO - START : User Registration
+2021-04-26 21:31:33.940 - WARNING - Cannot Register a user while logged in
+2021-04-26 21:31:33.942 - INFO - END : User Registration
+2021-04-26 21:31:38.911 - INFO - START : Apply for Loan
+2021-04-26 21:31:39.272 - INFO - Applied for Loan Successfully
+2021-04-26 21:31:39.275 - INFO - END : Apply for Loan
+2021-04-26 21:31:44.139 - INFO - START : Logout
+2021-04-26 21:31:44.185 - INFO - Logout Successful
+2021-04-26 21:31:44.187 - INFO - END : Logout
+2021-04-26 21:31:46.545 - INFO - START : User Registration
+2021-04-26 21:31:46.567 - INFO - User Added Successfully
+2021-04-26 21:31:46.568 - INFO - END : User Registration
+2021-04-26 21:31:49.521 - INFO - START : Apply for Loan
+2021-04-26 21:31:49.524 - SEVERE - Login to Apply for Loan
+2021-04-26 21:31:49.527 - INFO - END : Apply for Loan
